@@ -1,8 +1,10 @@
-name: Deathstorage
+name: DeathStorage
 main: com.thoughtsofglought.deathstorage.DeathStorage
-version: 0.1
+version: 1.0
+description: Drops stored in a  linked chest when killed.
+author: ThoughtsofGlought
+softdepend:
 commands:
-deathstorage:
-     description:
-     permission:
-     Usage:
+ 
+permissions:
+  
