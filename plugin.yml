@@ -1,0 +1,8 @@
+name: Deathstorage
+main: com.thoughtsofglought.deathstorage.DeathStorage
+version: 0.1
+commands:
+deathstorage:
+     description:
+     permission:
+     Usage:
